@@ -1,5 +1,9 @@
 # coronaviruseswebscraping
 scraping the coronaviruses data from [worldometers](https://www.worldometers.info/coronavirus/)
 
-. Run this command: npm install
-. node index.js
+.To run this project:
+
+```
+npm install
+node index.js
+```
